@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Primary Purple -->
+    <color name="purple">#6C4AB6</color>
+
+    <!-- Light Purple -->
+    <color name="purple_light">#8D72E1</color>
+
+    <!-- Background -->
+    <color name="white">#FFFFFF</color>
+
+    <!-- Text -->
+    <color name="black">#000000</color>
+
+    <!-- Card -->
+    <color name="card">#F5F3FF</color>
+
+    <!-- Accent -->
+    <color name="accent">#B9A3FF</color>
+
+    <!-- Bottom Nav -->
+    <color name="nav">#ECE5FF</color>
+
+    <!-- Like -->
+    <color name="red">#FF5B5B</color>
+
+    <!-- Search -->
+    <color name="gray">#757575</color>
+
+</resources>

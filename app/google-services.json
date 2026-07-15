@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "296105374276",
+    "project_id": "booksphere-512d7",
+    "storage_bucket": "booksphere-512d7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296105374276:android:f12a1f0ebc976acb84c211",
+        "android_client_info": {
+          "package_name": "com.example.booksphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwdTD3tJAKF_bfvNGyDv31qQ9WtdEINnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

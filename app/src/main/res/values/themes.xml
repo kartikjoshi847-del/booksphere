@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.Booksphere"
+        parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">#6C4AB6</item>
+
+        <item name="colorSecondary">#8D72E1</item>
+
+        <item name="android:statusBarColor">
+            #6C4AB6
+        </item>
+
+    </style>
+
+</resources>
